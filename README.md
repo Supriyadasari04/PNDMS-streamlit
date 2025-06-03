@@ -21,7 +21,6 @@ A secure, responsive, and scalable web interface built with **Streamlit** and **
 
 ## 📁 Project Structure
 
-```
 
 PDNMS-Streamlit/
 │
@@ -31,9 +30,8 @@ PDNMS-Streamlit/
 ├── README.md                # This file
 └── venv/                    # (Optional) Virtual environment folder
 
-````
 
----
+
 
 ## 🔧 Installation & Setup
 

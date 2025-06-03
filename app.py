@@ -875,6 +875,10 @@ def profile_page():
 
         # Centering the logout button
         col1, col2, col3 = st.columns([1, 2, 1])
+        with col1:
+            if st.button("🏠 Back to Home"):
+                st.session_state.page = 'home'
+                st.rerun()
         with col2:
             if st.button("🚪 Logout", key="logout_btn"):
                 st.session_state.page = "logout"

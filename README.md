@@ -4,6 +4,7 @@
 
 A secure, responsive, and scalable web interface built with **Streamlit** and **SQLite**, allowing users to register, log in, and manage their profiles as part of a predictive disaster management system.
 
+---
 
 ## 🧠 Features Implemented
 
@@ -16,19 +17,20 @@ A secure, responsive, and scalable web interface built with **Streamlit** and **
 ✅ Responsive Streamlit UI with Tabs (Login & Sign Up)  
 ✅ Logout Functionality  
 
+---
 
 ## 📁 Project Structure
 
 
 PDNMS-Streamlit/
 │
-├── streamlit\_app.py         # Main Streamlit app
+├── app.py                   # Main Streamlit app
 ├── users.db                 # SQLite3 database (auto-created)
 ├── requirements.txt         # Python dependencies
 ├── README.md                # This file
 └── venv/                    # (Optional) Virtual environment folder
 
-
+---
 
 
 ## 🔧 Installation & Setup
@@ -36,7 +38,7 @@ PDNMS-Streamlit/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PDNMS-Streamlit.git
+git clone https://github.com/Supriyadasari04/PDNMS-Streamlit.git
 cd PDNMS-Streamlit
 ````
 

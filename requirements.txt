@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+scikit-learn
+imbalanced-learn
+joblib
+ipywidgets
+ipython
+streamlit
+folium
+streamlit_folium
+bcrypt

@@ -4,7 +4,6 @@
 
 A secure, responsive, and scalable web interface built with **Streamlit** and **SQLite**, allowing users to register, log in, and manage their profiles as part of a predictive disaster management system.
 
----
 
 ## 🧠 Features Implemented
 
@@ -17,7 +16,6 @@ A secure, responsive, and scalable web interface built with **Streamlit** and **
 ✅ Responsive Streamlit UI with Tabs (Login & Sign Up)  
 ✅ Logout Functionality  
 
----
 
 ## 📁 Project Structure
 
